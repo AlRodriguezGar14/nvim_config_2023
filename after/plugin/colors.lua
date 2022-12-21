@@ -10,7 +10,7 @@ require("gruvbox").setup({
   invert_tabline = true,
   invert_intend_guides = true,
   inverse = true, -- invert background for search, diffs, statuslines and errors
-  contrast = "", -- can be "hard", "soft" or empty string
+  contrast = "hard", -- can be "hard", "soft" or empty string
   overrides = {},
 })
 
